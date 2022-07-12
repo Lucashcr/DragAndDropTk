@@ -6,6 +6,12 @@ DragAndDropTk is a Tkinter widget that implements drag and drop features and can
 
 ## **How to use**
 
+To install, run the command:
+
+```
+pip install DragAndDropTk
+```
+
 It's extremely simple to use. Let's see how we can initialize it in a Tk window in the code below.
 
 ```{.py3 linenums=1 hl_lines="12" title="default_case.py"}

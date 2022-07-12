@@ -1,7 +1,5 @@
 # A Tkinter drag and drop widget
 
-This code implements a Tkinter widget that can be dragged and dropped.
-
-The widget for Python can be customized by creating a subclass and adding to it children widgets on `__init__()` declaration and binding it with the `bind_child()` function. Futhermore, its default behavior is to be placed at the point at which it was dropped, but it can be changed by overriding 
+DragAndDropTk is a Tkinter widget that implements drag and drop features and can be customized as needed. It was developed as a Tkinter Frame with the callback functions and can be easily improved to build interfaces that need this behavior.
 
 **Read the [docs](https://lucashcr.github.io/DragAndDropTk/) for more information**

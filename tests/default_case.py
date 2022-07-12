@@ -1,6 +1,3 @@
-from sys import path; from pathlib import Path
-file = Path(__file__).resolve(); path.append(str(file.parents[1]))
-
 from tkinter import Tk
 from draganddroptk import DragAndDropTk
 
