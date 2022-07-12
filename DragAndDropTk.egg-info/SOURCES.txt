@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-DragAndDropTk.egg-info/PKG-INFO
-DragAndDropTk.egg-info/SOURCES.txt
-DragAndDropTk.egg-info/dependency_links.txt
-DragAndDropTk.egg-info/top_level.txt
-draganddroptk/__init__.py
-draganddroptk/drag_and_drop_tk.py

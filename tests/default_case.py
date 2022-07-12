@@ -1,6 +1,5 @@
 from tkinter import Tk
-from draganddroptk import DragAndDropTk
-
+from DragAndDropTk import DragAndDropTk
 
 class MainWindow(Tk):
     
