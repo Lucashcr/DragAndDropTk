@@ -3,7 +3,8 @@ from PIL import Image, ImageTk
 from tkinter import Frame, Label, Tk
 from tkinter.ttk import Separator
 
-from DragAndDropTk import DragAndDropTk
+from DragAndDropTk.drag_and_drop_tk import DragAndDropTk
+
 
 class Improved_DragAndDropTk(DragAndDropTk):
     
